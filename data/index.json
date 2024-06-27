@@ -1,0 +1,111 @@
+{
+    "Home": {
+            "home_Title": "I`m a Full-Stack Developer From Cape Town, South Africa",
+            "home_Summary": "I`m Imaraan Sheldon. I`m passionate about my personal growth as a Full-stack Developer and I craft unique & high-performing Websites, custom tailored.",
+            "contact": "Call (+27)081 319 8477"
+        },
+    "Sections":[
+        {
+            "id":1,
+            "section_Name":"SERVICES",
+            "section_Sub":"Services That I Provide"
+        }
+    ],
+    "Services": [
+        {
+            "id":1,
+            "services_Name":"Branding",
+            "services_Description":"Elevate your brand with clarity, consistency, and differentiation. I specialize in crafting powerful brand messages that resonate across all platforms. Highlight your strengths, stand out in competitive landscapes, and engage deeply with your audience. With adaptable strategies and precise metrics, I deliver tangible results for enduring success. Let me guide your journey to success."
+        },
+        {
+            "id":2,
+            "services_Name":"Web Development",
+            "services_Description":"I excel in crafting visually stunning, user-friendly websites that seamlessly blend aesthetics with functionality across all devices. With expertise in HTML, CSS, and JavaScript, I bring creative visions to life and implement advanced features with precision. Strategically integrating user insights, SEO best practices, and performance optimization, I deliver impactful results. My adaptability and commitment to emerging trends make me a formidable force in web development."
+        },
+        {
+            "id":4,
+            "services_Name":"Web Development",
+            "services_Description":"I excel in crafting visually stunning, user-friendly websites that seamlessly blend aesthetics with functionality across all devices. With expertise in HTML, CSS, and JavaScript, I bring creative visions to life and implement advanced features with precision. Strategically integrating user insights, SEO best practices, and performance optimization, I deliver impactful results. My adaptability and commitment to emerging trends make me a formidable force in web development."
+        },
+    ],
+    "education": [
+        {
+            "School": "Voortrekker High School" ,
+            "duration": "2015 to 2019"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Pedal Power Association(PPA)",
+            "duration": "2023(parttime)",
+            "responsibilities": "I made sure all racers had valid racing numbers at registration and I handed out medals to each and every cyclist that pasts the finishing line."
+        }
+    ],
+    "skills": [
+        {
+            "Javascript": "proficiency-basic",
+            "GitHub": "proficiency-moderate",
+            "CSS": "proficiency-basic",
+            "HTML": "proficiency-basic",
+            "VueJS": "proficiency-beginner"
+        }
+    ],
+    "testimonials": [
+        {
+            "id":1,
+            "name":"Romelia Francis",
+            "relationship":"Youth Leader",
+            "testimonial": "I met Keira a few years ago. She is an extraordinary individual whose dedication knows no bounds.Her unwavering commitment to excellence and tireless work ethic are truly inspiring. She consistently goes above and beyond to achieve her goals and positively impacts those around her. Keiras passion and determination make her a force to be reckoned with and i have no doubt that she will continue to accomplish remarkable feats in the future.",
+            "profile": ""
+        },
+        {
+            "id":2,
+            "name":"Amy Francis",
+            "relationship":"Youth Leader",
+            "testimonial":"Keira is such a spectacular person who aims to be an independent women with multiple achievements, she is witty, bring and kind hearted. When started attending church she grabbed my attention with her captivating smile. She started socializing with lots of other youth getting to know the environment and not being afraid to get out of her shell.Keira is still blossoming and learning to be on fire for God. This young women has a heart of gold, she has multiple skills thats self taught which inspires me as well as others that know her.",
+            "profile": ""
+        },
+        {
+            "id":3,
+            "name":"Jada Weber",
+            "relationship":"Friend",
+            "testimonial":" Keira is an exceptional hard working individual whose maturity and determination far exceed her young age of 19. I've had the privilege of knowing Keira for a long time, and I continue to be inspired by her unwavering dedication to her goals and her boundless compassion for others.Keira always striving to bring out the best in others. Her ability to collaborate and communicate effectively makes her a valuable asset to any team, and her innovative thinking and problem-solving skills are second to none.In short, Keira is not just a bright young woman with a promising future; she is a beacon of hope and positivity in a world that often feels uncertain. I have no doubt that she will continue to achieve great things and touch the lives of many along the way. It is an honor to know Keira, and I am excited to see where her journey takes her.",
+            "profile":"#"
+        },
+        {
+            "id":4,
+            "name":"Krystin Kistensamy",
+            "relationship":"Sister",
+            "testimonial":"Growing up, Keiras curiousity and determinationwere evident in everything she did. Whether it was tackling a new challenge or pursuing her passions, as she approached each endeavor with unwavering dedication and a relentless pursuit of excellence. But beyond her technical skills, its Keiras compassion and empathy that truly define her character. She always lend a listening ear, offer support, and uplift those around her. Her ability to see the best in others and her unwavering belief in their potentional are qualities that I deeply admire",
+            "profile": "#"
+        },
+        { 
+            "id":5,
+            "name":"Joel Mukanya",
+            "relationship":"Lecturer",
+            "testimonial":"Keira is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments.She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
+            "profile": "#"
+        }
+    ],
+    "projects": [
+        { 
+            "id":1,
+            "title": "Personal Portfolio",
+            "description": "Created a personal portfolio website to showcase my projects and skills.",
+            "technologies": ["HTML", "CSS"],
+            "github": "#",
+            "hosted": "#"
+        },
+        {
+            "id":2,
+            "title": "E-commerce Website",
+            "description": "Developed a functional e-commerce website with a shopping cart.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "link":"#" ,
+            "hosted": "#"
+        }
+    ]
+}
+
+
+
