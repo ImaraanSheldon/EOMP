@@ -1,111 +1,167 @@
 {
-    "Home": {
-            "home_Title": "I`m a Full-Stack Developer From Cape Town, South Africa",
-            "home_Summary": "I`m Imaraan Sheldon. I`m passionate about my personal growth as a Full-stack Developer and I craft unique & high-performing Websites, custom tailored.",
-            "contact": "Call (+27)081 319 8477"
-        },
-    "Sections":[
-        {
-            "id":1,
-            "section_Name":"SERVICES",
-            "section_Sub":"Services That I Provide"
-        }
-    ],
-    "Services": [
-        {
-            "id":1,
-            "services_Name":"Branding",
-            "services_Description":"Elevate your brand with clarity, consistency, and differentiation. I specialize in crafting powerful brand messages that resonate across all platforms. Highlight your strengths, stand out in competitive landscapes, and engage deeply with your audience. With adaptable strategies and precise metrics, I deliver tangible results for enduring success. Let me guide your journey to success."
-        },
-        {
-            "id":2,
-            "services_Name":"Web Development",
-            "services_Description":"I excel in crafting visually stunning, user-friendly websites that seamlessly blend aesthetics with functionality across all devices. With expertise in HTML, CSS, and JavaScript, I bring creative visions to life and implement advanced features with precision. Strategically integrating user insights, SEO best practices, and performance optimization, I deliver impactful results. My adaptability and commitment to emerging trends make me a formidable force in web development."
-        },
-        {
-            "id":4,
-            "services_Name":"Web Development",
-            "services_Description":"I excel in crafting visually stunning, user-friendly websites that seamlessly blend aesthetics with functionality across all devices. With expertise in HTML, CSS, and JavaScript, I bring creative visions to life and implement advanced features with precision. Strategically integrating user insights, SEO best practices, and performance optimization, I deliver impactful results. My adaptability and commitment to emerging trends make me a formidable force in web development."
-        }
-    ],
-    "education": [
-        {
-            "School": "Voortrekker High School" ,
-            "duration": "2015 to 2019"
-        }
-    ],
-    "experience": [
-        {
-            "company": "Pedal Power Association(PPA)",
-            "duration": "2023(parttime)",
-            "responsibilities": "I made sure all racers had valid racing numbers at registration and I handed out medals to each and every cyclist that pasts the finishing line."
-        }
-    ],
-    "skills": [
-        {
-            "Javascript": "proficiency-basic",
-            "GitHub": "proficiency-moderate",
-            "CSS": "proficiency-basic",
-            "HTML": "proficiency-basic",
-            "VueJS": "proficiency-beginner"
-        }
-    ],
-    "testimonials": [
-        {
-            "id":1,
-            "name":"Romelia Francis",
-            "relationship":"Youth Leader",
-            "testimonial": "I met Keira a few years ago. She is an extraordinary individual whose dedication knows no bounds.Her unwavering commitment to excellence and tireless work ethic are truly inspiring. She consistently goes above and beyond to achieve her goals and positively impacts those around her. Keiras passion and determination make her a force to be reckoned with and i have no doubt that she will continue to accomplish remarkable feats in the future.",
-            "profile": ""
-        },
-        {
-            "id":2,
-            "name":"Amy Francis",
-            "relationship":"Youth Leader",
-            "testimonial":"Keira is such a spectacular person who aims to be an independent women with multiple achievements, she is witty, bring and kind hearted. When started attending church she grabbed my attention with her captivating smile. She started socializing with lots of other youth getting to know the environment and not being afraid to get out of her shell.Keira is still blossoming and learning to be on fire for God. This young women has a heart of gold, she has multiple skills thats self taught which inspires me as well as others that know her.",
-            "profile": ""
-        },
-        {
-            "id":3,
-            "name":"Jada Weber",
-            "relationship":"Friend",
-            "testimonial":" Keira is an exceptional hard working individual whose maturity and determination far exceed her young age of 19. I've had the privilege of knowing Keira for a long time, and I continue to be inspired by her unwavering dedication to her goals and her boundless compassion for others.Keira always striving to bring out the best in others. Her ability to collaborate and communicate effectively makes her a valuable asset to any team, and her innovative thinking and problem-solving skills are second to none.In short, Keira is not just a bright young woman with a promising future; she is a beacon of hope and positivity in a world that often feels uncertain. I have no doubt that she will continue to achieve great things and touch the lives of many along the way. It is an honor to know Keira, and I am excited to see where her journey takes her.",
-            "profile":"#"
-        },
-        {
-            "id":4,
-            "name":"Krystin Kistensamy",
-            "relationship":"Sister",
-            "testimonial":"Growing up, Keiras curiousity and determinationwere evident in everything she did. Whether it was tackling a new challenge or pursuing her passions, as she approached each endeavor with unwavering dedication and a relentless pursuit of excellence. But beyond her technical skills, its Keiras compassion and empathy that truly define her character. She always lend a listening ear, offer support, and uplift those around her. Her ability to see the best in others and her unwavering belief in their potentional are qualities that I deeply admire",
-            "profile": "#"
-        },
-        { 
-            "id":5,
-            "name":"Joel Mukanya",
-            "relationship":"Lecturer",
-            "testimonial":"Keira is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments.She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
-            "profile": "#"
-        }
-    ],
-    "projects": [
-        { 
-            "id":1,
-            "title": "Personal Portfolio",
-            "description": "Created a personal portfolio website to showcase my projects and skills.",
-            "technologies": ["HTML", "CSS"],
-            "github": "#",
-            "hosted": "#"
-        },
-        {
-            "id":2,
-            "title": "E-commerce Website",
-            "description": "Developed a functional e-commerce website with a shopping cart.",
-            "technologies": ["HTML", "CSS", "Javascript"],
-            "link":"#" ,
-            "hosted": "#"
-        }
-    ]
+  "Home": {
+    "home_Title": "I`m a Full-Stack Developer From Cape Town, South Africa",
+    "home_Summary": "I`m Imaraan Sheldon. I`m passionate about my personal growth as a Full-stack Developer and I craft unique & high-performing Websites, custom tailored.",
+    "contact": "Call (+27)081 319 8477"
+  },
+  "Services_Head": {
+    "section_Name": "SERVICES",
+    "section_Sub": "Services That I Provide"
+  },
+  "Services": [
+    {
+      "id": 1,
+      "services_Name": "Branding",
+      "services_Description": "Elevate your brand with clarity, consistency, and differentiation. I specialize in crafting powerful brand messages that resonate across all platforms. Highlight your strengths, stand out in competitive landscapes, and engage deeply with your audience. With adaptable strategies and precise metrics, I deliver tangible results for enduring success. Let me guide your journey to success.",
+      "services_Type": "View an Example of Branding"
+    },
+    {
+      "id": 2,
+      "services_Name": "Web Development",
+      "services_Description": "I excel in crafting visually stunning, user-friendly websites that seamlessly blend aesthetics with functionality across all devices. With expertise in HTML, CSS, and JavaScript, I bring creative visions to life and implement advanced features with precision. Strategically integrating user insights, SEO best practices, and performance optimization, I deliver impactful results. My adaptability and commitment to emerging trends make me a formidable force in web development.",
+      "services_Type": "View my Work"
+    },
+    {
+      "id": 3,
+      "services_Name": "Full-Stack Developer",
+      "services_Description": "I am a dynamic full-stack developer skilled in HTML, CSS, JavaScript, and C#. With expertise in Vue.js, Bootstrap, ASP.NET, and Unity, I create high-quality, scalable web and game solutions. My ability to seamlessly integrate technologies ensures exceptional user experiences. I'm an invaluable asset to any innovative tech team.",
+      "services_Type": "View a Full-Stack Project"
+    }
+  ],
+  "About": {
+    "about_Name": "ABOUT",
+    "about_Description": "I am a passionate full-stack developer with a deep love for game development. At 22, I am driven by the aspiration to become an outstanding programmer, constantly honing my skills and embracing new challenges. Beyond coding, I immerse myself in the arts, from poetry to visual creations, and find joy in fishing, hiking, and gaming. These diverse interests fuel my creativity and problem-solving abilities, making me a well-rounded and innovative developer.",
+    "about_Sub": "My Education & Experience",
+    "education_Name": "Education",
+    "experience_Name": "Experience"
+  },
+  "Education": [
+    {
+      "id": 1,
+      "degree": "Nation Senior Certificate(NSC):Bachelors Pass",
+      "school": "Voortrekker High School; Kenilworth(2019):",
+      "degree_Description": "The National Senior Certificate (NSC) is a South African qualification awarded upon the successful completion of secondary education, serving as a key credential for university admission and employment"
+    },
+    {
+      "id": 2,
+      "degree": "Cisco Certified Network Associate",
+      "school": "College of Cape Town; Crawford Campus(2021):",
+      "degree_Description": "The CCNA—which stands for Cisco Certified Network Associate—is an entry-level information technology (IT) certification issued by networking hardware company Cisco. The CCNA is designed to validate your knowledge on fundamental networking concepts often requested in networking roles in IT positions."
+    },
+    {
+      "id": 3,
+      "degree": "Microsoft IT Academy (MSITA) - Web Development",
+      "school": "College of Cape Town; Crawford Campus(2023):",
+      "degree_Description": "The Microsoft IT Academy offers specialized training in web design, empowering individuals with the knowledge and skills to create dynamic and visually appealing websites using Microsoft technologies, using programming languages such as Html, Css, C# & mySQL."
+    },
+    {
+      "id": 4,
+      "degree": "Life Choices Academy(LCA) - Web Development",
+      "school": "314 Imam Haron Rd, Lansdowne, Cape Town, 7780(2024[Current]):",
+      "degree_Description": "A 6-month full stack web development program with a wrap-around approach to technical upskilling, personal and professional development. LC Studio offers an additional 6 month work-integrated learning experience focusing on tailored learning journeys while simulating the work environment."
+    }
+  ],
+  "Experience": [
+    {
+      "id": 1,
+      "job_Title": "Assistant Designer",
+      "workplace": "PALS Clothing; Salt River, Cape Town(2019):",
+      "job_Description": "As an assistant designer I provided valuable support to the design team, contributing to the creative process by assisting in tasks such as research, conceptualization, and design implementation.I worked as an Assistant Designer for about 3 months."
+    },
+    {
+      "id": 2,
+      "job_Title": "Assistant Operator",
+      "workplace": "Bowler Plastics PTY(LTD);Philipi, Cape Town(2020):",
+      "job_Description": "As an assistant operator of assembly machinery, I am responsible for supporting the efficient operation of the assembly line by assisting with machine setup, monitoring production processes, and ensuring the quality and timely completion of products. I worked as an Assistant Operator for 1 year."
+    },
+    {
+      "id": 3,
+      "job_Title": "Information Systems Technician",
+      "workplace": "Bowler Plastics PTY(LTD);Philipi, Cape Town(2021-2023):",
+      "job_Description": "An Information Systems Technician plays a crucial role in maintaining and troubleshooting computer systems and networks, ensuring their optimal functionality. They are responsible for resolving technical issues, implementing upgrades, and supporting end-users to ensure a seamless and secure information technology environment."
+    },
+    {
+      "id": 4,
+      "job_Title": "Machine Mainainence(Raw Material)",
+      "workplace": "Bowler Plastics PTY(LTD);Philipi, Cape Town(2024):",
+      "job_Description": "As a machine maintenance worker for plastic raw materials manufacturing, I was responsible for ensuring the smooth operation of machinery. This involves conducting regular inspections, diagnosing issues, and performing repairs to prevent downtime and maintain product quality. I collaborated with colleagues to troubleshoot complex problems and suggest improvements for machinery performance."
+    }
+  ],
+  "Skills_Head":{
+    "skills_Name": "SKILLS",
+    "skills_Sub": "My Skills"
+  },
+  "Skills": {
+    "HTML": "HTML",
+    "CSS": "CSS",
+    "Bootstrap": "Bootstrap",
+    "Javascript": "JavaScript",
+    "VueJS": "VUE.JS",
+    "C#": "C-Sharp",
+    "Aspx": "Asp.Net",
+    "Unity": "Unity Engine",
+    "Photoshop": "Adobe: Photoshop",
+    "Figma": "Figma",
+    "GitHub": "GitHub"
+  },
+
+  "Testimonials_Head":{
+    "testimonial_Head":"TESTIMONIALS",
+    "testimonial_Sub":"What People Think About Me"
+  },
+  "Testimonials": [
+    {
+      "id": 1,
+      "name": "Abdurahmaan Charif",
+      "relationship": "Collegue",
+      "testimonial": " Imaraan is a highly ambitious and driven individual who excels at what he does. He is confidence is backed by his knowledge and is a very capable individual. Imaraan will always be an asset to any organisation and circles that he is a part of and I would strongly recommend him to be part of your team. ",
+      "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Abdu.png"
+    },
+    {
+      "id": 2,
+      "name": "Robyn Carnow",
+      "relationship": "Collegue",
+      "testimonial": "Imaraan is a bubbly and detail-oriented person. Because of this, he is approachable and, additionally, willing to help on peer code review. Upon working in a team, there is no doubt that he always contributes and communicates efficaciously so as to avoid any conflict.",
+      "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Robyn.JPG"
+    },
+    {
+      "id": 3,
+      "name": "Ismail Ahmed",
+      "relationship": "Collegue",
+      "testimonial": "A hardworking individual. Very helpful and knowledgeable, always eager to improve. ~full of kak~ Straightforward, to the point.",
+      "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Ismail.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Nicki Ables",
+      "relationship": "Friend",
+      "testimonial": "Imaraan is a highly skilled individual. Apart from his crazy sense of humor he is very knowledgeable , creative and dedicated. He creates a comfortable atmosphere and goes the extra mile in all that he does.",
+      "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Nicki.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Joel Mukanya",
+      "relationship": "Lecturer",
+      "testimonial": "Imaraan Sheldon is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments.She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer.",
+      "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Joel.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Personal Portfolio",
+      "description": "Created a personal portfolio website to showcase my projects and skills.",
+      "technologies": ["HTML", "CSS"],
+      "github": "#",
+      "hosted": "#"
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Website",
+      "description": "Developed a functional e-commerce website with a shopping cart.",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "link": "#",
+      "hosted": "#"
+    }
+  ]
 }
-
-
-
