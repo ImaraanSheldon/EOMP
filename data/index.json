@@ -146,22 +146,64 @@
       "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Joel.jpg"
     }
   ],
-  "projects": [
+  "Work_Head":{
+    "work_Head":"WORK",
+    "work_Sub":"My Recent Projects"
+  },
+  "Work": [
     {
       "id": 1,
-      "title": "Personal Portfolio",
-      "description": "Created a personal portfolio website to showcase my projects and skills.",
-      "technologies": ["HTML", "CSS"],
-      "github": "#",
-      "hosted": "#"
+      "img":"https://imaraansheldon.github.io/allImages/portfolio-Images/ColorMyWorld.png",
+      "title": "Color My World(Eccomerce)",
+      "description": "Color My World is a vibrant e-commerce store showcasing unique and captivating art pieces that bring creativity and color into every space.",
+      "languages":"HTML, CSS, JavaScript, Bootstrap", 
+      "github": "https://github.com/ImaraanSheldon/ParsleyAndSage.git",
+      "hosted": "https://parsley-and-sage.vercel.app/"
     },
     {
       "id": 2,
-      "title": "E-commerce Website",
-      "description": "Developed a functional e-commerce website with a shopping cart.",
-      "technologies": ["HTML", "CSS", "Javascript"],
-      "link": "#",
-      "hosted": "#"
+      "img":"https://imaraansheldon.github.io/allImages/portfolio-Images/TravelStore.png",
+      "title": "Sun-Eco-Project(Flight Mock)",
+      "description": "Welcome to Sun Eco, a travel agency created in Luke Shaw's MSITA class in 2023, dedicated to blending exploration with environmental consciousness through sustainable, curated itineraries for responsible travel.",
+      "languages":"HTML, CSS", 
+      "github": "https://github.com/ImaraanSheldon/SunEco-Project.git",
+      "hosted": "https://imaraansheldon.github.io/SunEco-Project/"
+    },
+    {
+      "id": 3,
+      "img":"https://imaraansheldon.github.io/allImages/portfolio-Images/OnlyStore.png",
+      "title": "Only Store(Eccomerce Mock)",
+      "description": "Welcome to My Only Store, your ultimate fashion destination from Luke Shaw's 2023 MSITA class, offering a curated collection of trendy apparel and accessories for a seamless shopping experience.",
+      "languages":"HTML, CSS", 
+      "github": "https://github.com/ImaraanSheldon/Only-Store.git",
+      "hosted": "https://imaraansheldon.github.io/Only-Store/"
+    },
+    {
+      "id": 4,
+      "img":"https://imaraansheldon.github.io/allImages/portfolio-Images/LASStore.png",
+      "title": "LAS(Civil Engineering)",
+      "description": "Introducing LAS Website, born from Luke Shaw's 2023 MSITA class, the ultimate hub for civil engineering excellence with comprehensive resources and tools for industry professionals.",
+      "languages":"HTML, CSS", 
+      "github": "https://github.com/ImaraanSheldon/LAS-Store.git",
+      "hosted": "https://imaraansheldon.github.io/LAS-Store/"
+    },
+    {
+      "id": 5,
+      "img":"https://imaraansheldon.github.io/allImages/portfolio-Images/RIN.png",
+      "title": "RIN(Shoe Store)",
+      "description": "RIN: Your go-to destination for stylish footwear. Discover a curated selection of shoes designed to elevate your every step. From casual kicks to elegant heels, we've got your feet covered with quality and style.",
+      "languages":"HTML, CSS", 
+      "github": "https://github.com/ImaraanSheldon/ClothingStore.git",
+      "hosted": "https://imaraansheldon.github.io/ClothingStore/"
+    },
+    {
+      "id": 6,
+      "img":"https://imaraansheldon.github.io/allImages/portfolio-Images/UrbanTonic.png",
+      "title": "Urban-Toni(Culinary)",
+      "description": "Welcome to UrbanTonic, where gourmet catering meets urban flair, offering seamless online ordering and personalized service for unforgettable dining experiences.",
+      "languages":"HTML, CSS", 
+      "github": "https://github.com/ImaraanSheldon/Urban-Tonic.git",
+      "hosted": "https://imaraansheldon.github.io/Urban-Tonic/"
     }
   ]
 }
