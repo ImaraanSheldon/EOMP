@@ -87,62 +87,62 @@
   "Skills": [
     {
       "id":1,
-      "HTML": "HTML",
+      "name": "HTML",
       "logo":"lab la-html5"
     },
     {
       "id":2,
-      "CSS": "CSS",
+      "name": "CSS",
       "logo":"lab la-css3_alt"
     },
     {
       "id":3,
-      "Bootstrap": "Bootstrap",
+      "name": "Bootstrap",
       "logo":"lab la-bootstrap"
     },
     {
       "id":4,
-      "Javascript": "JavaScript",
+      "name": "JavaScript",
       "logo":"lab la-js-square"
     },
     {
       "id":5,
-      "VueJS": "VUE.JS",
+      "name": "VUE.JS",
       "logo":"lab la-vuejs"
     },
     {
       "id":6,
-      "CSharp": "C-Sharp",
+      "name": "C-Sharp",
       "logo":"lab la-slack"
     },
     {
       "id":7,
-      "Aspx": "Asp.Net",
+      "name": "Asp.Net",
       "logo":"lab la-windows"
     },
     {
       "id":8,
-      "Unity": "Unity",
+      "name": "Unity",
       "logo": "las la-gamepad"
     },
     {
       "id":9,
-      "Photoshop": "Adobe: Photoshop",
+      "name": "Adobe: Photoshop",
       "logo":"lab la-adobe"
     },
     {
       "id":10,
-      "Figma": "Figma",
+      "name": "Figma",
       "logo":"lab la-figma"
     },
     {
       "id":11,
-      "Github": "GitHub",
+      "name": "GitHub",
       "logo":"lab la-github-square"
     },
     {
       "id":12,
-      "Node": "Node.js",
+      "name": "Node.js",
       "logo":"lab la-node"
     },
   ],
