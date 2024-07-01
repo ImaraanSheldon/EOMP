@@ -28,13 +28,6 @@
       "services_Type": "View a Full-Stack Project"
     }
   ],
-  "About": {
-    "about_Name": "ABOUT",
-    "about_Description": "I am a passionate full-stack developer with a deep love for game development. At 22, I am driven by the aspiration to become an outstanding programmer, constantly honing my skills and embracing new challenges. Beyond coding, I immerse myself in the arts, from poetry to visual creations, and find joy in fishing, hiking, and gaming. These diverse interests fuel my creativity and problem-solving abilities, making me a well-rounded and innovative developer.",
-    "about_Sub": "My Education & Experience",
-    "education_Name": "Education",
-    "experience_Name": "Experience"
-  },
   "Education": [
     {
       "id": 1,
@@ -91,24 +84,68 @@
     "skills_Name": "SKILLS",
     "skills_Sub": "My Skills"
   },
-  "Skills": {
-    "HTML": "HTML",
-    "CSS": "CSS",
-    "Bootstrap": "Bootstrap",
-    "Javascript": "JavaScript",
-    "VueJS": "VUE.JS",
-    "C#": "C-Sharp",
-    "Aspx": "Asp.Net",
-    "Unity": "Unity Engine",
-    "Photoshop": "Adobe: Photoshop",
-    "Figma": "Figma",
-    "GitHub": "GitHub"
-  },
-
-  "Testimonials_Head":{
-    "testimonial_Head":"TESTIMONIALS",
-    "testimonial_Sub":"What People Think About Me"
-  },
+  "Skills": [
+    {
+      "id":1,
+      "HTML": "HTML",
+      "logo":"lab la-html5"
+    },
+    {
+      "id":2,
+      "CSS": "CSS",
+      "logo":"lab la-css3_alt"
+    },
+    {
+      "id":3,
+      "Bootstrap": "Bootstrap",
+      "logo":"lab la-bootstrap"
+    },
+    {
+      "id":4,
+      "Javascript": "JavaScript",
+      "logo":"lab la-js-square"
+    },
+    {
+      "id":5,
+      "VueJS": "VUE.JS",
+      "logo":"lab la-vuejs"
+    },
+    {
+      "id":6,
+      "CSharp": "C-Sharp",
+      "logo":"lab la-slack"
+    },
+    {
+      "id":7,
+      "Aspx": "Asp.Net",
+      "logo":"lab la-windows"
+    },
+    {
+      "id":8,
+      "Unity": "Unity",
+      "logo": "las la-gamepad"
+    },
+    {
+      "id":9,
+      "Photoshop": "Adobe: Photoshop",
+      "logo":"lab la-adobe"
+    },
+    {
+      "id":10,
+      "Figma": "Figma",
+      "logo":"lab la-figma"
+    },
+    {
+      "id":11,
+      "Github": "GitHub",
+      "logo":"lab la-github-square"
+    },
+    {
+      "id":12,
+      "Node": "Node.js",
+      "logo":"lab la-node"
+    },
+  ],
   "Testimonials": [
     {
       "id": 1,
@@ -146,10 +183,6 @@
       "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Joel.jpg"
     }
   ],
-  "Work_Head":{
-    "work_Head":"WORK",
-    "work_Sub":"My Recent Projects"
-  },
   "Work": [
     {
       "id": 1,
