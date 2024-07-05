@@ -149,55 +149,41 @@
   "Testimonials": [
     {
       "id": 1,
-      "name": "Abdurahmaan Charif",
-      "relationship": "Collegue",
-      "testimonial": " Imaraan is a highly ambitious and driven individual who excels at what he does. He is confidence is backed by his knowledge and is a very capable individual. Imaraan will always be an asset to any organisation and circles that he is a part of and I would strongly recommend him to be part of your team. ",
-      "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Abdu.png"
-    },
-    {
-      "id": 2,
       "name": "Robyn Carnow",
       "relationship": "Collegue",
       "testimonial": "Imaraan is a bubbly and detail-oriented person. Because of this, he is approachable and, additionally, willing to help on peer code review. Upon working in a team, there is no doubt that he always contributes and communicates efficaciously so as to avoid any conflict.",
       "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Robyn.JPG"
     },
     {
-      "id": 3,
-      "name": "Ismail Ahmed",
-      "relationship": "Collegue",
-      "testimonial": "A hardworking individual. Very helpful and knowledgeable, always eager to improve. ~full of kak~ Straightforward, to the point.",
-      "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Ismail.jpg"
-    },
-    {
-      "id": 4,
+      "id": 2,
       "name": "Nicki Ables",
       "relationship": "Friend",
       "testimonial": "Imaraan is a highly skilled individual. Apart from his crazy sense of humor he is very knowledgeable , creative and dedicated. He creates a comfortable atmosphere and goes the extra mile in all that he does.",
       "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Nicki.jpg"
     },
     {
-      "id": 5,
+      "id": 3,
       "name": "Joel Mukanya",
       "relationship": "Lecturer",
       "testimonial": "Imaraan Sheldon is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments.She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer.",
       "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Joel.jpg"
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "Timothy Jones",
       "relationship": "Friend",
       "testimonial": "Imaraan is a great friend. He is very outgoing, hardworking and has a big heart. I`ve never seen him without a smile and he is always willing to help you in times of need and has great leadership skills",
       "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Timmy.jpg"
     },
     {
-      "id": 7,
+      "id": 5,
       "name": "Chandre Leigh Davids",
       "relationship": "Friend",
       "testimonial": "Imaraan is one of the most Hardworking individuals I know, his web designs are always on point, detailed, creative and unique. He is definitely someone that you'd want on your team with regards to both his uplifting personality and dedication to his work",
       "profile": "https://imaraansheldon.github.io/allImages/portfolio-Images/Temp.jpg"
     },
     {
-      "id": 8,
+      "id": 6,
       "name": "Mihle Lingani",
       "relationship": "Friend",
       "testimonial": "Imaraan is an earnest person. He has the ability to achieve anything. His drive to constantly push his limits, to overcome any problem is inspiring. He`s a Jack of All Trades and tries to master it all. You`d think he`s indecisive when you think of all his skills and capabilities. He is very dedicated to self-improvement in all aspects of his life and if learning was a person it would be him",
