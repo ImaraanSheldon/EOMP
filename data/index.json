@@ -11,21 +11,19 @@
   "Services": [
     {
       "id": 1,
-      "services_Name": "Branding",
-      "services_Description": "Elevate your brand with clarity, consistency, and differentiation. I specialize in crafting powerful brand messages that resonate across all platforms. Highlight your strengths, stand out in competitive landscapes, and engage deeply with your audience. With adaptable strategies and precise metrics, I deliver tangible results for enduring success. Let me guide your journey to success.",
+      "services_Name": "Problem Solving",
+      "services_Description": "I excel at problem-solving, leveraging his full-stack development skills to tackle complex challenges with innovative solutions and creative thinking.",
       "services_Type": "View an Example of Branding"
     },
     {
       "id": 2,
-      "services_Name": "Web Development",
-      "services_Description": "I excel in crafting visually stunning, user-friendly websites that seamlessly blend aesthetics with functionality across all devices. With expertise in HTML, CSS, and JavaScript, I bring creative visions to life and implement advanced features with precision. Strategically integrating user insights, SEO best practices, and performance optimization, I deliver impactful results. My adaptability and commitment to emerging trends make me a formidable force in web development.",
-      "services_Type": "View my Work"
+      "services_Name": "Time Management",
+      "services_Description": "I am adept at time management, efficiently balancing multiple projects and deadlines with strategic planning and prioritization to ensure timely and successful outcomes."
     },
     {
       "id": 3,
-      "services_Name": "Full-Stack Developer",
-      "services_Description": "I am a dynamic full-stack developer skilled in HTML, CSS, JavaScript, and C#. With expertise in Vue.js, Bootstrap, ASP.NET, and Unity, I create high-quality, scalable web and game solutions. My ability to seamlessly integrate technologies ensures exceptional user experiences. I'm an invaluable asset to any innovative tech team.",
-      "services_Type": "View a Full-Stack Project"
+      "services_Name": "Resilient",
+      "services_Description": "I am very resilient, navigating challenges and setbacks with determination and adaptability to achieve his goals and maintain progress."
     }
   ],
   "Education": [
