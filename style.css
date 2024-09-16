@@ -1,0 +1,28 @@
+.carousel-item {
+    padding: 30px 0;
+  }
+  
+  .carousel-inner {
+    text-align: left;
+  }
+  
+  .carousel-item img {
+    max-width: 100px; /* Adjust image size */
+  }
+  
+  @media (max-width: 768px) {
+    .carousel-item {
+      text-align: center;
+    }
+    
+    .carousel-item .col-4, .carousel-item .col-8 {
+      text-align: center;
+    }
+    
+    .carousel-item .col-4 {
+      margin-bottom: 15px;
+    }
+  }
+  body{
+    background-color: black;
+  }

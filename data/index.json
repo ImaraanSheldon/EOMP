@@ -5,8 +5,8 @@
     "contact": "Call (+27)081 319 8477"
   },
   "Services_Head": {
-    "section_Name": "SERVICES",
-    "section_Sub": "Services That I Provide"
+    "section_Name": "ABOUT",
+    "section_Sub": "About Me"
   },
   "Services": [
     {
@@ -31,7 +31,7 @@
   "Education": [
     {
       "id": 1,
-      "degree": "Nation Senior Certificate(NSC):Bachelors Pass",
+      "degree": "(NSC):Bachelors Pass",
       "school": "Voortrekker High School; Kenilworth(2019):",
       "degree_Description": "The National Senior Certificate (NSC) is a South African qualification awarded upon the successful completion of secondary education, serving as a key credential for university admission and employment"
     },
@@ -43,13 +43,13 @@
     },
     {
       "id": 3,
-      "degree": "Microsoft IT Academy (MSITA) - Web Development",
+      "degree": "Microsoft IT Academy (MSITA)",
       "school": "College of Cape Town; Crawford Campus(2023):",
       "degree_Description": "The Microsoft IT Academy offers specialized training in web design, empowering individuals with the knowledge and skills to create dynamic and visually appealing websites using Microsoft technologies, using programming languages such as Html, Css, C# & mySQL."
     },
     {
       "id": 4,
-      "degree": "Life Choices Academy(LCA) - Web Development",
+      "degree": "Life Choices Academy - WebDev",
       "school": "314 Imam Haron Rd, Lansdowne, Cape Town, 7780(2024[Current]):",
       "degree_Description": "A 6-month full stack web development program with a wrap-around approach to technical upskilling, personal and professional development. LC Studio offers an additional 6 month work-integrated learning experience focusing on tailored learning journeys while simulating the work environment."
     }
